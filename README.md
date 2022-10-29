@@ -3,9 +3,6 @@
 ![image](https://user-images.githubusercontent.com/65438145/162041804-b8a7e51d-537a-4641-82c1-ee5f7e09a35c.png)
 ![image](https://user-images.githubusercontent.com/65438145/162041821-6947bd91-6f0d-4875-9eaa-cc8104e5923e.png)
 
-# 22apicoprobe-li-pico
-22apicoprobe-li-pico created by GitHub Classroom]
-
 Tecnológico Nacional de México
 
 Instituto Tecnológico de Tijuana
