@@ -17,3 +17,4 @@ Gerardo Antonio Reyes Armenta 17211147
 Eliam Jesús Vazquez Parra 19211748
 Kenny Zheng Hu 19210561
 
+Link del avance: https://github.com/users/KennyKZH/projects/1/views/1
