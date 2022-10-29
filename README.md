@@ -12,7 +12,9 @@ SISTEMAS PROGRAMABLES
 DOCENTE:
 RENE SOLIS REYES
 
-ALUMNO (A):
-
-ZHENG HU KENNY #19210561
+ALUMNOS:
+Jose Pablo Triana Corvera C18310381
+Gerardo Antonio Reyes Armenta 17211147
+Eliam Jesús Vazquez Parra 19211748
+Kenny Zheng Hu 19210561
 
