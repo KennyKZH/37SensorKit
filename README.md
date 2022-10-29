@@ -23,6 +23,7 @@ Maestro: Rene Solís Reyes
 
 -------------------------------------
 ALUMNOS:
+
 Jose Pablo Triana Corvera C18310381
 
 Gerardo Antonio Reyes Armenta 17211147
